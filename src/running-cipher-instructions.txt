@@ -1,0 +1,4 @@
+to run cipher.py, ensure that it is in the src directory or modify the libGen() function's With statement to include the location of the 'web2' document
+place the file you want to decipher in the directory, then run:
+
+python3 cipher.py [filename.txt]
